@@ -1,8 +1,9 @@
-#include<stdio.h>;
-#include<time.h>;
-#include<stdlib.h>;
-#include<conio.h>;
-#include<conio.c>;
+#include<stdio.h>
+#include<time.h>
+#include<stdlib.h>
+#include<conio.h>
+#include<conio.c>
+
 #define jog1 8
 #define jog2 7
  
